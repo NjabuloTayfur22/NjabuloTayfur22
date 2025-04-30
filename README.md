@@ -1,11 +1,10 @@
-# 👋 Hi, I’m @NjabuloTayfur22
+# 👋 Hey, I'm Njabulo Tayfur
 
-- 👀 I’m interested in backend development, APIs, and DevOps  
-- 🌱 I’m currently learning Node.js, Docker, and CI/CD pipelines  
-- 💼 I’m looking to collaborate on open-source backend projects  
-- 📫 You can reach me at njabulonomvete@gmail.com or on LinkedIn as Njabulo Nomvete  
+- 👀 I’m into building scalable backend systems, working with APIs, and automating workflows  
+- 🌱 Right now, I’m deep-diving into Node.js, Docker, Kubernetes, and CI/CD tools  
+- 🤝 I’m open to collaborating on backend-heavy projects, especially anything with Express or FastAPI  
+- 📫 Reach me: njabulonomvete@gmail.com | [LinkedIn Name: Njabulo Nomvete | Instagram: HandsomeHypeX  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I automate everything I can  
-
+- ⚡ Fun fact: I turned my terminal into a productivity machine  custom aliases, scripts, and all  
 
 --->
